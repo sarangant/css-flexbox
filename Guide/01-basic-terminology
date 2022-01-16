@@ -1,0 +1,7 @@
+<h1>Den grundlæggende terminologi</h1>
+
+<p>Da flexbox er et helt modul og ikke en enkelt property, involverer det en masse ting, inklusive hele dets sæt af properties. Nogle af dem er beregnet til at blive sat på containeren (parent element, kendt som "flex container"), mens de andre er beregnet til at blive sat på child elements ("flex items").
+
+Hvis "almindelig" layout er baseret på både blok og inline flow directions, er flex-layoutet baseret på "flex-flow directions". Se venligst denne figur fra specifikationen, der forklarer hovedideen bag flex-layoutet.</p>
+
+<img src="./assets/images/00-basic-terminology.png" width=550px />
